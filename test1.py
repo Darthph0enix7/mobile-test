@@ -4,7 +4,6 @@ import openwakeword
 from openwakeword.model import Model
 import sounddevice as sd
 
-openwakeword.utils.download_models()
 
 # Configuration
 THRESHOLD = 0.1  # Confidence threshold for wake word detection
