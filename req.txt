@@ -1,4 +1,4 @@
-pybluez
+
 pynput
 openwakeword
 sounddevice
